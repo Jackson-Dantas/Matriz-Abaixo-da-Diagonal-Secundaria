@@ -1,0 +1,16 @@
+{
+  "name": "abaixo-da-diagonal-secundaria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nv-file-sync-reader": "^1.0.16",
+    "prompt-sync": "^4.2.0",
+    "rw": "^1.3.3"
+  }
+}
