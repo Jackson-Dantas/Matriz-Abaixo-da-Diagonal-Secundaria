@@ -1,4 +1,4 @@
-//importando modulo node para ler a entrada do usuário de acordo com o padrão estabelicido pelo beecrowd
+//importando modulo node para ler a entrada do usuário de acordo com o padrão estabelecido pelo beecrowd
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 var lines = input.split('\n'); //retorna um array com todos os inputs 
 
